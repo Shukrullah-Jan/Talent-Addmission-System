@@ -1,0 +1,70 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Talent_Addmission_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dataSourcePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\</Value>
+    </Setting>
+    <Setting Name="accessTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">students_table</Value>
+    </Setting>
+    <Setting Name="imagesLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\</Value>
+    </Setting>
+    <Setting Name="settingsState" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="programsList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;Windows 10&lt;/string&gt;
+  &lt;string&gt;Windows 11&lt;/string&gt;
+  &lt;string&gt;MacOS&lt;/string&gt;
+  &lt;string&gt;MS Word 2022&lt;/string&gt;
+  &lt;string&gt;MS Excel 2022                             &lt;/string&gt;
+  &lt;string&gt;MS Access 2022&lt;/string&gt;
+  &lt;string&gt;MS PowerPoint 2022&lt;/string&gt;
+  &lt;string&gt;Office Package&lt;/string&gt;
+  &lt;string&gt;Adobe Photoshop Basics&lt;/string&gt;
+  &lt;string&gt;Adobe Photoshop Retouching&lt;/string&gt;
+  &lt;string&gt;Adobe Photoshop Designing&lt;/string&gt;
+  &lt;string&gt;Adobe Premier&lt;/string&gt;
+  &lt;string&gt;Adobe After Effect&lt;/string&gt;
+  &lt;string&gt;Adobe Illustrator&lt;/string&gt;
+  &lt;string&gt;C Language&lt;/string&gt;
+  &lt;string&gt;C++&lt;/string&gt;
+  &lt;string&gt;OOP&lt;/string&gt;
+  &lt;string&gt;C#&lt;/string&gt;
+  &lt;string&gt;Java&lt;/string&gt;
+  &lt;string&gt;Python&lt;/string&gt;
+  &lt;string&gt;Kotlin&lt;/string&gt;
+  &lt;string&gt;Android Application developement&lt;/string&gt;
+  &lt;string&gt;HTML&lt;/string&gt;
+  &lt;string&gt;CSS&lt;/string&gt;
+  &lt;string&gt;JavaScript&lt;/string&gt;
+  &lt;string&gt;Todays Need&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345</Value>
+    </Setting>
+    <Setting Name="activationCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">XXXXX-XXXXX-XXXXX-XXXXX-XXXXX</Value>
+    </Setting>
+    <Setting Name="courseAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Abu Talib Road, Gali French Bakery, Quetta</Value>
+    </Setting>
+    <Setting Name="contactNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+92 313 1454166</Value>
+    </Setting>
+    <Setting Name="adminLogin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="userPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345</Value>
+    </Setting>
+    <Setting Name="paymentTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">payments_table</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
